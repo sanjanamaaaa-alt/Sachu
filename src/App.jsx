@@ -271,7 +271,9 @@ export default function App() {
           </p>
 
           <video controls playsInline preload="metadata" className="our-video">
-            <source src="/video/lv_0_20261111174826.mp4" type="video/mp4" />
+
+            <source src="/video/116318-compressed.mp4" type="video/mp4" />
+
           </video>
         </div>
 
